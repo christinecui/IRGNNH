@@ -6,6 +6,7 @@ Hui Cui, Lei Zhu, Wentao Tan
 The paper has been accepted by MMAsia' 20.
 
 url: https://doi.org/10.1145/3444685.3446321
+![崔慧_3_MMASIA](https://user-images.githubusercontent.com/37294640/171309853-2b9fede7-6f84-4d7f-9c29-0c28e199008d.jpg)
 
 
 **Usage**
