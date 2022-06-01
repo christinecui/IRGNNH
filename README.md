@@ -1,1 +1,3 @@
 # IRGNNH
+
+python model.py
