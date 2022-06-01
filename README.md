@@ -4,12 +4,18 @@
 Hui Cui, Lei Zhu, Wentao Tan
 
 The paper has been accepted by MMAsia' 20.
+
 Article No.: 68
+
 Pages 1–8
+
 https://doi.org/10.1145/3444685.3446321
 
+
 **Usage**
+
 python model.py
+
 
 **Citation**
 
